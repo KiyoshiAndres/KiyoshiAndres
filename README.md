@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KiyoshiAndres
-- 👀 I’m interested in cryptography, machine learning, swift, algebraic geometry, etc
+- 👀 I’m interested in data science, advanced maths, and trains.
 - 📫 How to reach me: kiyoshi.andres.takeuchi@gmail.com
 
 <!---
