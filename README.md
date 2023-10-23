@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KiyoshiAndres
-- 👀 I’m interested in data science, advanced maths, and trains.
+- 👀 I’m interested in data science, advanced maths, and SWE in general.
 - 📫 How to reach me: kiyoshi.andres.takeuchi@gmail.com
 
 <!---
