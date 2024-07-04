@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @KiyoshiAndres
-- 👀 I’m interested in data science, advanced maths, and SWE in general.
+- 👀 I am currently working on image recognition, topological data analysis, and differential geometry.
+- Some of my hobbies include algebraic geometry, relativity, marine ecology and photography.
 - 📫 How to reach me: kiyoshi.andres.takeuchi@gmail.com
 
 <!---
